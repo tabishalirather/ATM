@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ATM_Project;
 
-public class Program12
+public class Program
 {
     public static void Main(string[] args)
     {
