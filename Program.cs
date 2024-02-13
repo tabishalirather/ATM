@@ -3,7 +3,7 @@
 // using System.Linq;
 //
 // namespace ATMApp;
-// // See https://aka.ms/new-console-template for more information
+// // See https://aka.ms/new-consolge-template for more information
 // using ATM_Project;
 //
 // public class Program
