@@ -1,0 +1,16 @@
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.csproj.AssemblyReference.cache
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\MainWindow.baml
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\MainWindow.g.cs
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\App.g.cs
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp_MarkupCompile.cache
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.g.resources
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.Properties.Resources.resources
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.csproj.GenerateResource.cache
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\bin\Debug\ATMApp.exe.config
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\bin\Debug\ATMApp.exe
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\bin\Debug\ATMApp.pdb
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.exe
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\ATMApp.pdb
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\DatabaseForm.baml
+C:\Users\tabis\RiderProjects\ATMApp\ATMApp\obj\Debug\DatabaseForm.g.cs

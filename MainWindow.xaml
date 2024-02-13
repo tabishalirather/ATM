@@ -1,0 +1,24 @@
+﻿<Window x:Class="ATMApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ATM" Height="300" Width="250">
+    <Grid>
+        <StackPanel x:Name="LoginPanel" Margin="10">
+            <!-- Login controls here -->
+            <TextBlock Text="Card Number:"/>
+            <TextBox x:Name="txtCardNumber" Height="20"/>
+            <TextBlock Text="PIN:"/>
+            <PasswordBox x:Name="txtPIN" Height="20"/>
+            <Button Content="Login" x:Name="btnLogin" Click="btnLogin_Click"/>
+            
+            <!-- <Button Content="Open Database Form" x:Name="btnOpenDatabaseForm" Click="btnOpenDatabaseForm_Click"/> -->
+        </StackPanel>
+        <StackPanel x:Name="ATMOperationsPanel" Visibility="Collapsed" Margin="10">
+            <!-- ATM operation controls here -->
+            <TextBlock Text="Login Successful"/>
+            <TextBlock Text="Select an option:"/>
+            <ListBox x:Name="lstOptions"/>
+           
+        </StackPanel>
+    </Grid>
+</Window>
